@@ -1,4 +1,4 @@
-# Sales-Analysis-Using-SQL-Power-BI
+# Data-Analyst-Project-Sales-Management
  SQL-based data analysis project with Power BI visualizations for interactive insights and reporting.
 
 **Sales Data Analysis and Visualization Project**
