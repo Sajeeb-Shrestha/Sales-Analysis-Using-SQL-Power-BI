@@ -20,8 +20,8 @@ SQL_Scripts/ – Contains SQL queries for data preparation and analysis.
 - sales_data_cleaning.sql
 - sales_data_cleaning.sql
 
-## Click Following files to view Dashboards
-Power BI dashboards:
+## 📸 Click Following files to view Dashboards
+Power BI - interactive dashboards and reports:
 - sales_dashboard.pbix
 - sales_dashboard.pbix
 - sales_dashboard.pbix
