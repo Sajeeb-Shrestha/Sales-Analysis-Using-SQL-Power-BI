@@ -9,12 +9,12 @@ Data extraction and cleaning using SQL
 Sales analysis based on product, customer, and year
 Visualizations in Power BI for interactive dashboards
 Metrics such as total sales, budget comparisons, and customer segmentation
-**
-**Technologies Used****
+
+**Technologies Used**
 SQL (for data manipulation and querying)
 Power BI (for data visualization)
 
-Files
+**Files**
 SQL_Scripts/: Contains SQL code for data cleaning, transformation, and analysis.
 sales_data_cleaning.sql: Script for cleaning and preparing the sales data.
 sales_analysis.sql: Queries to retrieve sales data based on product, customer, and year.
