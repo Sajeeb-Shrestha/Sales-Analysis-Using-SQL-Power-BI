@@ -1,22 +1,13 @@
-# Data Analyst Project - Sales Management
- SQL-based data analysis project with Power BI visualizations for interactive insights and reporting.
+Sales Data Analysis and Visualization Project
+**Purpose**
+The goal of this project was to analyze a company's sales data using **SQL for data retrieval and transformation** and **Power BI for interactive visualizations**. The project provides key insights into **sales performance, customer segmentation, and budget comparisons**, enabling data-driven decision-making.
 
-**Sales Data Analysis and Visualization Project**
-This project involves analyzing a company's sales data using SQL for data retrieval and Power BI for creating interactive visualizations. The dataset includes tables such as DIM_Customer, FACT_Internet Sales, DIM_Product, and SalesBudget. SQL queries were used for data cleaning, aggregation, and extraction of key metrics related to sales performance based on product, customer, and year. Power BI was used to visualize and present insights, helping stakeholders make informed, data-driven decisions.
+**Features**
+**Data Extraction & Cleaning**: Used SQL to clean and structure sales data.
+**Sales Analysis**: Analyzed sales trends based on product, customer, and year.
+**Interactive Dashboards**: Created Power BI visualizations for easy interpretation.
+**Key Metrics**: Total sales, budget comparisons, and customer segmentation insights.
 
-**Key Features**
-Data extraction and cleaning using SQL
-Sales analysis based on product, customer, and year
-Visualizations in Power BI for interactive dashboards
-Metrics such as total sales, budget comparisons, and customer segmentation
-
-**Technologies Used**
-SQL (for data manipulation and querying)
-Power BI (for data visualization)
-
-**Files**
-SQL_Scripts/: Contains SQL code for data cleaning, transformation, and analysis.
-sales_data_cleaning.sql: Script for cleaning and preparing the sales data.
-sales_analysis.sql: Queries to retrieve sales data based on product, customer, and year.
-PowerBI_Reports/: Contains Power BI files for visualizations.
-sales_dashboard.pbix: Power BI project file with interactive dashboards showcasing sales metrics, product performance, and budget comparisons.
+**Tools & Technologies Used**
+**SQL** – For data manipulation, querying, and aggregation.
+**Power BI** – For creating interactive dashboards and reports.
