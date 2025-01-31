@@ -15,13 +15,13 @@ The goal of this project is to analyze a company's sales data using **SQL for da
 
 ## 📂 Project Files  
 SQL_Scripts/ – Contains SQL queries for data preparation and analysis.
-- sales_data_cleaning.sql
-- sales_data_cleaning.sql
-- sales_data_cleaning.sql
-- sales_data_cleaning.sql
+- DIM_Calender.sql
+- DIM_Customer.sql
+- DIM_Product.sql
+- FACT_Internet Sales.sql
 
 ## 📸 Click Following files to view Dashboards
 Power BI - interactive dashboards and reports:
-- sales_dashboard.pbix
-- sales_dashboard.pbix
-- sales_dashboard.pbix
+- Power BI- Customer Details 2024.png
+- Power BI- Product Details 2024.png
+- Power BI- Sales Overview 2024.png
